@@ -1,0 +1,9 @@
+C:\Users\user\Documents\KOU_PROJELER\YAZLAB\2017_2\yazlab2_2\yazlab2_2\bin\Debug\yazlab2_2.exe.config
+C:\Users\user\Documents\KOU_PROJELER\YAZLAB\2017_2\yazlab2_2\yazlab2_2\bin\Debug\yazlab2_2.exe
+C:\Users\user\Documents\KOU_PROJELER\YAZLAB\2017_2\yazlab2_2\yazlab2_2\bin\Debug\yazlab2_2.pdb
+C:\Users\user\Documents\KOU_PROJELER\YAZLAB\2017_2\yazlab2_2\yazlab2_2\obj\Debug\yazlab2_2.Form1.resources
+C:\Users\user\Documents\KOU_PROJELER\YAZLAB\2017_2\yazlab2_2\yazlab2_2\obj\Debug\yazlab2_2.Properties.Resources.resources
+C:\Users\user\Documents\KOU_PROJELER\YAZLAB\2017_2\yazlab2_2\yazlab2_2\obj\Debug\yazlab2_2.csproj.GenerateResource.Cache
+C:\Users\user\Documents\KOU_PROJELER\YAZLAB\2017_2\yazlab2_2\yazlab2_2\obj\Debug\yazlab2_2.exe
+C:\Users\user\Documents\KOU_PROJELER\YAZLAB\2017_2\yazlab2_2\yazlab2_2\obj\Debug\yazlab2_2.pdb
+C:\Users\user\Documents\KOU_PROJELER\YAZLAB\2017_2\yazlab2_2\yazlab2_2\obj\Debug\yazlab2_2.csprojResolveAssemblyReference.cache
